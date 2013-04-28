@@ -1,0 +1,6 @@
+LIBRARY   MathFuncsDll
+EXPORTS
+	Add
+	Subtract
+	Multiply
+	Divide
